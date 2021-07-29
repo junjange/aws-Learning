@@ -1,0 +1,2 @@
+rootProject.name = "AWS-Kotlin"
+include ':app'
